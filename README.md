@@ -3,11 +3,9 @@
 
 Sample project for [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal), a Gaussian Splat plugin for Unreal Engine featuring relighting and native shadow casting support.
 
-See the [StarLightGS README](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal) and [usage guide](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal/blob/main/Docs/StarLightGS_Usage_Guide.md) for detail instructions on using the plugin.
+See the [StarLightGS README](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal) and [usage guide](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal/blob/main/Docs/StarLightGS_Usage_Guide.md) for detailed instructions on using the plugin.
 
-To work with relighting, Gaussian Splat assets must have per-splat normal vectors and material properties (metallic/roughness).
-
-The assets used in this project were produced using [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). See the [training pipeline README](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training) for details on how to create your own relightable Gaussian Splat assets.
+The assets used in this project were produced using [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). To work with relighting, Gaussian Splat assets must have per-splat normal vectors and material properties (metallic/roughness). See the [training pipeline README](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training) for details on how to create your own relightable Gaussian Splat assets.
 
 ## Requirements
 - Unreal Engine 5.7 or newer.
