@@ -27,15 +27,17 @@ The assets used in this project were produced using [StarLightGS Training Pipeli
 
 ## Asset Credits
 
-Assets in this sample project were produced from datasets from the below sources. The datasets were turned into relightable gaussian splat assets using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). They are provided as sample assets for our [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal) plugin.
+Assets in this sample project (excluding Suzanne) were produced from datasets acquired from third party sources. The datasets were turned into relightable gaussian splat assets using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). They are provided as sample assets for our [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal) plugin.
 
 We would particularly like to thank [Mike Caronna](https://www.linkedin.com/in/mikecaronna/) from [Starling Labs](https://www.linkedin.com/company/starlinglab/home/) for his support and feedback, and especially for providing the excellent boat dataset.
 
-Asset|Made By|License
+Source Name|Rights Holder|Source License
 -|-|-
-Boat|Mike Caronna|CC BY-NC-SA
-Garden|Google|CC BY-NC-SA
-Suzanne|Blender Foundation|`TBC`
+Shipwreck*|Mike Caronna|CC BY-NC-SA
+Mip-NeRF 360 Dataset ("garden" scene)*|Google LLC|Apache License 2.0
+Suzanne|Blender / Willem-Paul van Overbruggen|GNU gpl-3.0
+
+\* these assets are **not for commercial use**, as they were produced using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training) which uses [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md) which is licensed for research and evaluation uses only.
 
 ## License
-This project is licensed under the `<insert license>` license - see the LICENSE file for details.
+This project is licensed under the CC BY-NC-SA 4.0 license - see the LICENSE file for details.
