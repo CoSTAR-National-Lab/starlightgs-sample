@@ -1,5 +1,5 @@
 # Sample Project for [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal)
-<img width="1188" height="650" alt="image" src="https://github.com/user-attachments/assets/50c614a8-46a5-4de4-92d8-56fd8e53d5e9" />
+![](Resources/Demo.gif)
 
 Sample project for [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal), a Gaussian Splat plugin for Unreal Engine featuring relighting and native shadow casting support.
 
