@@ -1,9 +1,9 @@
-# Sample Project for [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal)
+# Sample Project for [StarLightGS](https://github.com/CoSTAR-National-Lab/starlightgs)
 ![](Resources/Demo.gif)
 
-Sample project for [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal), a Gaussian Splat plugin for Unreal Engine featuring relighting and native shadow casting support.
+Sample project for [StarLightGS](https://github.com/CoSTAR-National-Lab/starlightgs), a Gaussian Splat plugin for Unreal Engine featuring relighting and native shadow casting support.
 
-See the [StarLightGS README](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal) and [usage guide](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal/blob/main/Docs/StarLightGS_Usage_Guide.md) for detailed instructions on using the plugin.
+See the [StarLightGS README](https://github.com/CoSTAR-National-Lab/starlightgs) and [usage guide](https://github.com/CoSTAR-National-Lab/starlightgs/blob/main/Docs/StarLightGS_Usage_Guide.md) for detailed instructions on using the plugin.
 
 The assets used in this project were produced using [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). To work with relighting, Gaussian Splat assets must have per-splat normal vectors and material properties (metallic/roughness). See the [training pipeline README](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training) for details on how to create your own relightable Gaussian Splat assets.
 
@@ -27,7 +27,7 @@ The assets used in this project were produced using [StarLightGS Training Pipeli
 
 ## Asset Credits
 
-Assets in this sample project (excluding Suzanne) were produced from datasets acquired from third party sources. The datasets were turned into relightable gaussian splat assets using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). They are provided as sample assets for our [StarLightGS](https://github.com/CoSTAR-National-Lab/relighting-gaussians-unreal) plugin.
+Assets in this sample project (excluding Suzanne) were produced from datasets acquired from third party sources. The datasets were turned into relightable gaussian splat assets using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). They are provided as sample assets for our [StarLightGS](https://github.com/CoSTAR-National-Lab/starlightgs) plugin.
 
 We would particularly like to thank [Mike Caronna](https://www.linkedin.com/in/mikecaronna/) from [Starling Labs](https://www.linkedin.com/company/starlinglab/home/) for his support and feedback, and especially for providing the excellent boat dataset.
 
