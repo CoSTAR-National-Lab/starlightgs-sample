@@ -5,7 +5,7 @@ Sample project for [StarLightGS](https://github.com/CoSTAR-National-Lab/starligh
 
 See the [StarLightGS README](https://github.com/CoSTAR-National-Lab/starlightgs) and [usage guide](https://github.com/CoSTAR-National-Lab/starlightgs/blob/main/Docs/StarLightGS_Usage_Guide.md) for detailed instructions on using the plugin.
 
-The assets used in this project were produced using [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). To work with relighting, Gaussian Splat assets must have per-splat normal vectors and material properties (metallic/roughness). See the [training pipeline README](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training) for details on how to create your own relightable Gaussian Splat assets.
+The assets used in this project were produced using [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/starlightgs-training). To work with relighting, Gaussian Splat assets must have per-splat normal vectors and material properties (metallic/roughness). See the [training pipeline README](https://github.com/CoSTAR-National-Lab/starlightgs-training) for details on how to create your own relightable Gaussian Splat assets.
 
 ## Requirements
 - Unreal Engine 5.7 or newer.
@@ -27,7 +27,7 @@ The assets used in this project were produced using [StarLightGS Training Pipeli
 
 ## Asset Credits
 
-Assets in this sample project (excluding Suzanne) were produced from datasets acquired from third party sources. The datasets were turned into relightable gaussian splat assets using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training). They are provided as sample assets for our [StarLightGS](https://github.com/CoSTAR-National-Lab/starlightgs) plugin.
+Assets in this sample project (excluding Suzanne) were produced from datasets acquired from third party sources. The datasets were turned into relightable gaussian splat assets using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/starlightgs-training). They are provided as sample assets for our [StarLightGS](https://github.com/CoSTAR-National-Lab/starlightgs) plugin.
 
 We would particularly like to thank [Mike Caronna](https://www.linkedin.com/in/mikecaronna/) from [Starling Labs](https://www.linkedin.com/company/starlinglab/home/) for his support and feedback, and especially for providing the excellent boat dataset.
 
@@ -37,7 +37,7 @@ Shipwreck*|Mike Caronna|CC BY-NC-SA
 Mip-NeRF 360 Dataset ("garden" scene)*|Google LLC|Apache License 2.0
 Suzanne|Blender / Willem-Paul van Overbruggen|GNU gpl-3.0
 
-\* these assets are **not for commercial use**, as they were produced using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/relighting-gaussians-training) which uses [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md) which is licensed for research and evaluation uses only.
+\* these assets are **not for commercial use**, as they were produced using our [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/starlightgs-training) which uses [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md) which is licensed for research and evaluation uses only.
 
 ## License
 This project is licensed under the CC BY-NC-SA 4.0 license - see the LICENSE file for details.
