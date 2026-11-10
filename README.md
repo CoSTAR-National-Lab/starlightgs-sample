@@ -7,12 +7,16 @@ See the [StarLightGS README](https://github.com/CoSTAR-National-Lab/starlightgs)
 
 The assets used in this project were produced using [StarLightGS Training Pipeline](https://github.com/CoSTAR-National-Lab/starlightgs-training). To work with relighting, Gaussian Splat assets must have per-splat normal vectors and material properties (metallic/roughness). See the [training pipeline README](https://github.com/CoSTAR-National-Lab/starlightgs-training) for details on how to create your own relightable Gaussian Splat assets.
 
+> [!TIP]
+> Download pre-compiled binaries from the [Releases](https://github.com/CoSTAR-National-Lab/starlightgs-sample/releases/).
+
 ## Requirements
 - Unreal Engine 5.7 or newer.
 - Visual Studio 2022 or newer.
 
 ## Getting Started
-
+Download pre-compiled binaries for Unreal Engine 5.7 and 5.8 from the [Releases](https://github.com/CoSTAR-National-Lab/starlightgs-sample/releases/).
+### Build from Source
 1. Clone this repository with submodules:
     ```sh
     git clone --recursive https://github.com/CoSTAR-National-Lab/starlightgs-sample
