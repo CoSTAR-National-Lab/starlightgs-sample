@@ -10,6 +10,11 @@ The assets used in this project were produced using [StarLightGS Training Pipeli
 > [!TIP]
 > Download pre-compiled binaries from the [Releases](https://github.com/CoSTAR-National-Lab/starlightgs-sample/releases/).
 
+
+> [!NOTE]
+> If you have found StarLightGS useful, please fill out our [feedback form](https://forms.cloud.microsoft/e/kxi32Rh0Kw) to help support our work.
+
+
 ## Requirements
 - Unreal Engine 5.7 or newer.
 - Visual Studio 2022 or newer.
